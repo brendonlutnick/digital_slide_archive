@@ -54,7 +54,7 @@ ImageList = collections.OrderedDict([
         'pinned': 'v1.0.0',
     }),
     ('cli', {
-        'tag': 'dsarchive/histomicstk',
+        'tag': 'avinashks93/histomicstk_build',
         'pull': True,
         'pinned': 'v0.1.7',
     }),
